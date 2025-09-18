@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\bin\Debug\net8.0\Matrix1.exe
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\bin\Debug\net8.0\Matrix1.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\bin\Debug\net8.0\Matrix1.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\bin\Debug\net8.0\Matrix1.dll
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\bin\Debug\net8.0\Matrix1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.dll
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\refint\Matrix1.dll
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.pdb
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\Matrix1.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Matrix1\obj\Debug\net8.0\ref\Matrix1.dll
